@@ -17,4 +17,8 @@ public class GitHubExampleApplication {
 public void addDevelopNewMethod(){
 		
 	}
+
+public void addDevelopNewMethod1(){
+	
+}
 }
