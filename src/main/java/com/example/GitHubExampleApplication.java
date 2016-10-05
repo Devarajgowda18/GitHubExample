@@ -9,4 +9,8 @@ public class GitHubExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitHubExampleApplication.class, args);
 	}
+	
+	public void addNewMethod(){
+		
+	}
 }
